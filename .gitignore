@@ -1,2 +1,4 @@
 .vs
 
+/Host/obj
+/Host/bin/Debug/netcoreapp2.2
